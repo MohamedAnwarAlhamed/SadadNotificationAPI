@@ -12,7 +12,7 @@ namespace SadadNotification.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class NotificationsController : ControllerBase
+    public class NotificationsController : ControllerBase 
     {
         
 
